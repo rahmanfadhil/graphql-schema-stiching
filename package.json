@@ -1,0 +1,12 @@
+{
+  "name": "testap",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Rahman Fadhil <rhmnfadhil@gmail.com> (http://rahmanfadhil.com)",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "graphql-tools": "^3.1.1",
+    "graphql-yoga": "^1.16.2"
+  }
+}
